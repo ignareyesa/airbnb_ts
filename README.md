@@ -1,6 +1,6 @@
 # Airbnb Dataset
 
-This **repository is the second in a series of three** in which various Airbnb datasets are studied using different analysis methods.
+This **repository is the third in a series of three** in which various Airbnb datasets are studied using different analysis methods.
 
 - [Part 1: Exploratory Data Analysis](https://github.com/ignareyesa/airbnb_eda)
 - [Part 2: Natural Language Processing on reviews](https://github.com/ignareyesa/airbnb_nlp)
@@ -23,7 +23,7 @@ The dataset consists on the following files:
 | reviews.csv | Summary Review data and Listing ID. |
 | neighbourhoods.csv | Neighbourhood list for geo filter. Sourced from city or open source GIS files. |
 
-## Part 2:
+## Part 3:
 
 This part of the project analyses different aspects of the evolution of Airbnb in the city of Madrid. For this purpose, the number of rentals over time is used as a time series.
 
